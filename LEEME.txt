@@ -1,1 +1,6 @@
-VERSIÓN PÚBLICA SIN DATOS PERSONALES. Sube index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png a GitHub. Los saldos se configuran en cada dispositivo. No hay sincronización automática: usa exportar/importar copias JSON. No subas las copias JSON a un repositorio público.
+MIS FINANZAS CON SUPABASE
+Sube index.html, sw.js, manifest.webmanifest y los dos iconos a la raíz del repositorio GitHub. No subas el ZIP directamente.
+No se incluye ningún saldo o movimiento personal en el código.
+Para iniciar sesión, crea una cuenta desde la aplicación y confirma el email si se solicita.
+Si el iPhone muestra una versión antigua, ciérrala y vuelve a abrirla después de unos minutos.
+Los datos locales de la versión anterior no se importan automáticamente.
