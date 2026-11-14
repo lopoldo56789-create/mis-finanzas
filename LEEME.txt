@@ -1,0 +1,1 @@
+VERSIÓN PÚBLICA SIN DATOS PERSONALES. Sube index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png a GitHub. Los saldos se configuran en cada dispositivo. No hay sincronización automática: usa exportar/importar copias JSON. No subas las copias JSON a un repositorio público.
